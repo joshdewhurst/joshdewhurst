@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my GitGHub, stick around, fork a repo, or let's connect and work together!
 
 ![Intro banner](https://user-images.githubusercontent.com/108956371/201223707-cf5fd011-87a9-4e4c-953c-34308bd4af55.png)
 
