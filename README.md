@@ -3,7 +3,7 @@
 
 ___
 
-## Some Introductions are in Order
+## Some Introductions are in order...
 
 Hi! My name is Josh Dewhurst, and I am a software engineer with full-stack experience but an inclanation for back-end development. I am located in San Francisco, CA and I am interested in working within fintech, healthcare, and geosocial networking.
 
